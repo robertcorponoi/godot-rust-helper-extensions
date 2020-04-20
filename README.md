@@ -1,4 +1,4 @@
-<h1 style="center">Godot Rust Helper Extensions</h1>
+<h1 align="center">Godot Rust Helper Extensions</h1>
 
 This is a library of extension helper methods that get added to projects when the `--extension` option is used with [godot-rust-helper](https://github.com/robertcorpnoi/godot-rust-helper).
 
