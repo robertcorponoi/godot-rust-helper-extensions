@@ -1,6 +1,6 @@
 <h1 align="center">Godot Rust Helper Extensions</h1>
 
-This is a library of extension helper methods that get added to projects when the `--extension` option is used with [godot-rust-helper](https://github.com/robertcorpnoi/godot-rust-helper).
+This is a library of extension helper methods for [godot-rust-helper](https://github.com/robertcorpnoi/godot-rust-helper).
 
 ## **Usage**
 
