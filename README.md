@@ -1,13 +1,13 @@
 <h1 align="center">Godot Rust Helper Extensions</h1>
 
-This is a library of extension helper methods for [godot-rust-helper](https://github.com/robertcorpnoi/godot-rust-helper).
+<p align="center">This is a library of extension helper methods for [godot-rust-helper](https://github.com/robertcorpnoi/godot-rust-helper).</p>
 
 ## **Usage**
 
 To use the extensions, you open the module you want to add them to and use:
 
 ```rust
-use godot_rust_helper_extensions::NodeExt as _;
+use godot_rust_helper_ext::NodeExt as _;
 ```
 
 where `NodeExt` is the extension you want to use. The extensions available are listed below.
